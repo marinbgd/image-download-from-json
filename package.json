@@ -1,0 +1,17 @@
+{
+  "name": "image-download-from-json",
+  "version": "1.0.0",
+  "description": "Downloading images from imageUrls.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir Marinovic",
+  "license": "WTFNMFPL-1.0",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5",
+    "rimraf": "^2.6.3"
+  }
+}
